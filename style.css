@@ -173,8 +173,8 @@ body{
 }
 
 .accordion-item {
-    border: none; /* Remove todas as bordas */
-    border-bottom: 1px solid #6c757d; /* Adiciona apenas a borda inferior */
+    border: none;
+    border-bottom: 1px solid #6c757d;
 }
 
 .linkFooter{

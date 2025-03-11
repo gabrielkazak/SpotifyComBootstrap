@@ -1,0 +1,197 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white !important;
+}
+
+.navbar{
+    padding-left: 12% !important;
+    padding-top: 15px !important;
+}
+
+.nav-link{
+    font-weight: bold !important;
+}
+
+.nav-link:hover{
+    color: #1DB954 !important;
+}
+
+.barra{
+    border-right: 1px solid white;
+    padding-right: 35px !important;
+}
+
+.estilo_botao1{
+    color: black;
+    background-color: #FFD2D7;
+}
+
+.estilo_botao2{
+    color: white;
+    background-color: black;
+    border: 0.5px solid white;
+}
+
+.estilo_botao3{
+    color: white;
+    background-color: #242424;
+    border: 0.5px solid white;
+}
+
+.estilo_botao4{
+    color: black;
+    background-color: #C4B1D4;
+    border: 0.5px solid white;
+}
+
+.estilo_botao5{
+    color: black;
+    background-color: #FFC862;
+    border: 0.5px solid white;
+}
+
+.estilo_botao6{
+    color: black;
+    background-color: #A5BBD1;
+    border: 0.5px solid white;
+}
+
+.estilo_botao1:hover{
+    background-color:rgb(247, 231, 231);
+    transition: 0.5s;
+}
+
+.estilo_botao2:hover{
+    color: white;
+    background-color:rgb(27, 27, 27);
+    transition: 0.5s;
+}
+
+.estilo_botao3:hover{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    transition: 0.25s;
+}
+
+.estilo_botao4:hover{
+    color: black;
+    background-color: #ddc7ef;
+    border: 0.5px solid white;
+}
+
+.estilo_botao5:hover{
+    background-color: #ffdfa2;
+    color: black;
+    transition: 0.25s;
+}
+
+.estilo_botao6:hover{
+    color: black;
+    background-color: #cbe0f6;
+    border: 0.5px solid white;
+}
+
+.texto_banner{
+    letter-spacing: 0.25px;
+    line-height: 48px;
+}
+
+.letras_miudas{
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.textoP-banner{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.table-dark, .table-dark th, .table-dark td {
+    background-color: black !important;
+    color: white !important;
+}
+
+.table {
+    border-collapse: collapse; 
+}
+
+.table th, .table td {
+    border: none;
+    padding: 8px;
+}
+
+.table tbody tr {
+    border-bottom: 1px solid white; 
+}
+
+.table-dark {
+    background-color: #000 !important;
+}
+
+.card{
+    margin: 1em !important;
+    background-color: #242424;
+}
+
+.cards{
+    padding: 0 !important;
+
+}
+
+.card_titulo1{
+    color: #FFD2D7;
+}
+
+.card_titulo2{
+    color: #C4B1D4;
+}
+
+.card_titulo3{
+    color: #FFC862;
+}
+
+.card_titulo4{
+    color: #A5BBD1;
+}
+
+.texto-card{
+    margin: 0;
+}
+
+.bordaInf{
+    padding-bottom: 1em;
+    border-bottom: 1px solid gray;
+    margin-bottom: 1em;
+}
+
+.card_lista{
+    padding: 0;
+}
+
+.accordion-button::after {
+    filter: invert(1);
+}
+
+.accordion-item {
+    border: none; /* Remove todas as bordas */
+    border-bottom: 1px solid #6c757d; /* Adiciona apenas a borda inferior */
+}
+
+.linkFooter{
+    text-decoration: none;
+}
+
+.linkFooter:hover{
+    color: #1DB954 !important;
+}
+
+.linkFooterTop{
+    color: #7d7d7d;
+    font-size: 13px;
+}
+
+.linkMenorFooter{
+    font-size: 12px;
+    color: #7d7d7d;
+    text-decoration: none;
+}
